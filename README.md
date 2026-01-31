@@ -63,10 +63,9 @@ Understanding which regions are most profitable.
 ---
 
 🚀 How to Run
-1. Clone the repository:
-
-```Bash
-git clone [https://github.com/sanaurrehmanarain/Retail-Sales-Analytics-SQL.git](https://github.com/sanaurrehmanarain/Retail-Sales-Analytics-SQL.git)
+1. Clone the repository from [GitHub](https://github.com/sanaurrehmanarain/Retail-Sales-Analytics-SQL.git):
+```bash
+git clone https://github.com/sanaurrehmanarain/Retail-Sales-Analytics-SQL.git
 ```
 2. Install dependencies:
 
